@@ -1,0 +1,15 @@
+StandInit
+ComeOn
+Hello
+DanceMove
+Stand
+Mani_sui_fianchi
+Sit
+Stand_from_sit
+Wipe_Forehead
+Move_forward
+StandZero
+TheRobot
+SitRelax
+Stand_from_sit
+Crouch
