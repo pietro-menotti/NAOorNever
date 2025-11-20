@@ -1,0 +1,17 @@
+StandInit
+DanceMove
+Hello
+Mani_sui_fianchi
+Stand
+Dab
+Sit
+Stand_from_sit
+Move_forward
+Wipe_Forehead
+PulpFiction
+StandZero
+ComeOn
+SitRelax
+Stand_from_sit
+Diagonal_left
+Crouch
