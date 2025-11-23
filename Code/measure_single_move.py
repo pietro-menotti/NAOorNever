@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# We used this file to measure the time of each move, to run the script simply use the line below in the shell opened in the same 
-# reponsory using the same premises given to start the choreography
+# We used this file to measure the time of each move, to run the script simply use the line below in the shell opened in this reponsory
+# using the same premises given to start the choreography
 
 #  python2 measure_single_move.py 127.0.0.1 9559 <MOVE>
 
@@ -41,4 +41,5 @@ def main():
     time.sleep(0.5)
 
 if __name__ == "__main__":
+
     main()
