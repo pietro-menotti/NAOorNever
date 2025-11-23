@@ -22,6 +22,8 @@ In order to make the virtual robot dance, follow these steps:
   ./start.sh <nao_ip> <nao_port>
 
 
+
+
 Problems encountered:
 The video presented (Video-NAOorNever_c.mp4) isn't on time, and the moves (sit and sit-relax) aren't even perfectly executed. This is due to the screen recording, which significantly slows down the laptop, causing the choreography to freeze in some places. We apologize for the inconvenience, but we hope you enjoy the performance.
 
