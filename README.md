@@ -1,4 +1,4 @@
-# NAOorNever
+# NAO Or Never
 Team name: NAO OR NEVER
 
 Members: Pietro Menotti, Lorenzo Moscardini
