@@ -1,7 +1,7 @@
 # NAO Or Never
 Team name: NAO OR NEVER
 
-Members: Pietro Menotti, Lorenzo Moscardini
+Members: Pietro Menotti (pietro.menotti@studio.unibo.it), Lorenzo Moscardini (lorenzo.moscardini2@studio.unibo.it)
 
 Description: this project focuses on building a dance coreography for NAO virtual robot given constraints on the total time of the coreography and on the mandatory moves that need to be executed.
 
